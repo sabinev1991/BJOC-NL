@@ -8,6 +8,8 @@
 
 * Bestaandsnamen moeten eventueel ook vertaald worden
 
+* "Discuss"  vertalen we naar "Bespreken"
+
 # Voorlopig niet te vertalen
 
 * Div class maar zie glossary voor voorbeelden
